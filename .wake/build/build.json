@@ -1,0 +1,61 @@
+{
+  "compilation_units": {
+    "e5ea79cf8d70accbfdbb355c81617f154e82a11db9a849a8e7374e2e60726e79": {
+      "errors": []
+    }
+  },
+  "source_units_info": {
+    "contracts/Lock.sol": {
+      "fs_path": "/home/muriarfad/Documents/Auditors/2/4-puppy-raffle-audit/contracts/Lock.sol",
+      "blake2b_hash": "3c08b1db003d89a89e517e5dff189dbac2a5d5ab5d53d5f19529ccac361030dd"
+    }
+  },
+  "allow_paths": [],
+  "exclude_paths": [
+    "/home/muriarfad/Documents/Auditors/2/4-puppy-raffle-audit/node_modules",
+    "/home/muriarfad/Documents/Auditors/2/4-puppy-raffle-audit/test",
+    "/home/muriarfad/Documents/Auditors/2/4-puppy-raffle-audit/venv",
+    "/home/muriarfad/Documents/Auditors/2/4-puppy-raffle-audit/script",
+    "/home/muriarfad/Documents/Auditors/2/4-puppy-raffle-audit/.venv",
+    "/home/muriarfad/Documents/Auditors/2/4-puppy-raffle-audit/lib"
+  ],
+  "include_paths": [
+    "/home/muriarfad/Documents/Auditors/2/4-puppy-raffle-audit/node_modules"
+  ],
+  "settings": {
+    "__null__": {
+      "stopAfter": null,
+      "remappings": [],
+      "optimizer": {
+        "enabled": null,
+        "runs": 200,
+        "details": {
+          "peephole": null,
+          "inliner": null,
+          "jumpdestRemover": null,
+          "orderLiterals": null,
+          "deduplicate": null,
+          "cse": null,
+          "constantOptimizer": null,
+          "simpleCounterForLoopUncheckedIncrement": null,
+          "yul": null,
+          "yulDetails": null
+        }
+      },
+      "evmVersion": null,
+      "viaIR": null,
+      "debug": null,
+      "metadata": {
+        "appendCBOR": null,
+        "useLiteralContent": null,
+        "bytecodeHash": null
+      },
+      "libraries": null,
+      "outputSelection": { "*": { "": ["ast"], "*": ["*"] } },
+      "modelChecker": null
+    }
+  },
+  "target_solidity_versions": { "__null__": null },
+  "wake_version": "4.13.1",
+  "incremental": true
+}

@@ -1,0 +1,19 @@
+{
+  "contracts": ["Lock"],
+  "enums": [],
+  "canonical_enums": [],
+  "errors": [],
+  "canonical_errors": [],
+  "events": ["Withdrawal"],
+  "canonical_events": ["Lock.Withdrawal"],
+  "functions": ["constructor", "withdraw"],
+  "canonical_functions": ["Lock.withdraw()", "Lock.constructor(uint256)"],
+  "modifiers": [],
+  "canonical_modifiers": [],
+  "structs": [],
+  "canonical_structs": [],
+  "user_defined_value_types": [],
+  "canonical_user_defined_value_types": [],
+  "variables": ["owner", "unlockTime"],
+  "canonical_variables": ["Lock.unlockTime", "Lock.owner"]
+}
